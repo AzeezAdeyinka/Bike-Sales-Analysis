@@ -53,7 +53,7 @@ Purchasing Trends:
 
 -Longer commute distances positively correlate with bike ownership.
 
-![Bike Sales Analysis Dashboard](https://github.com/AzeezAdeyinka/Bike-Sales-Analysis/edit/main/README.md#L54C67)
+![Bike Sales Analysis Dashboard](https://github.com/AzeezAdeyinka/Bike-Sales-Analysis/blob/main/Bike%20sales%20dashboard.png?raw=true)
 
 ### Recommendation
 -Target Marketing: Focus marketing campaigns on middle-aged professionals with moderate to high income.
